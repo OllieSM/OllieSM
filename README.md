@@ -1,12 +1,5 @@
 <html>
-  <head>
-  <title>OllieSM Portfolio</title>
-  <style>
-    h1 {
-      color: ff69b4;
-      }
-  </style>
-  </head>
+<title>OllieSM</title>
   
 </html>
 - 🔭 I’m currently working on a PC i have been building for a while
