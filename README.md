@@ -2,6 +2,7 @@
   <head>OllieSM</head>
   <body>
     <h1>Test</h1>
+    <h5>About Me:</h5>
   </body>
 </html>
 - 🔭 I’m currently working on a PC i have been building for a while
@@ -12,4 +13,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
