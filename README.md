@@ -3,6 +3,9 @@
   <body>
     <h1>Test</h1>
     <h5>About Me:</h5>
+    <p>My name is Ollie and i study Computer Science at University of South Wales<br>
+      
+    </p>
   </body>
 </html>
 - 🔭 I’m currently working on a PC i have been building for a while
