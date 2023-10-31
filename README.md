@@ -1,7 +1,8 @@
 <html>
-  <head>
-    <title>OllieSM</title>
-  </head>
+  <head>OllieSM</head>
+  <body>
+    <h1>Test</h1>
+  </body>
 </html>
 - 🔭 I’m currently working on a PC i have been building for a while
 - 🌱 I’m currently learning the Computer Science Course (Year 1) at USW
