@@ -1,7 +1,7 @@
 <html>
 <body>
   <h1>TEST</h1>
-  <h1 style="font size: 100">New Test</h1>
+  <h1 style="font size: 1000">New Test</h1>
 </body>
 </html>
 - 🔭 I’m currently working on a PC i have been building for a while
