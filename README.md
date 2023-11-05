@@ -19,7 +19,14 @@
         <li>Programming</li>
       </ul>
     <hr>
+    <h4><ins>Skill Set</ins></h4>
+    <p align="center">I have very basic programming skills in HTML as well as python which i learnt during A-Level <br>
+      I know how to put a PC together since i am trying to build one
+    </p>
     <h4><ins>Recent Projects Completed:</ins></h4>
+    <p>not Exactly completed yet but i am currently building a PC to use for school work and games <br>
+      
+    </p>
   </body>
 </html>
 - 🔭 I’m currently working on a PC i have been building for a while
