@@ -24,13 +24,14 @@
       I know how to put a PC together since i am trying to build one
     </p>
     <h4><ins>Recent Projects Completed:</ins></h4>
-    <p>Not Exactly completed yet but i am currently building a PC to use for school work and games. I have <br>
-      bought more parts more quickly when i moved into UNI and currently i am only missing the GPU. I dont <br>
-      know what i will work on after i have a PC built but chances are it will most likely be something with technolgy
+    <p>Not Exactly completed yet but i am currently building a PC to use for school work <br> 
+      and games. I have bought more parts more quickly when i moved into UNI and currently <br> 
+      i am only missing the GPU. I dont know what i will work on after i have a PC built <br>
+      but chances are it will most likely be something with technolgy
     </p>
     <div class="gallery">
       <a target="_blank" href="Computer.JPG">
-        <img src="Computer.JPG" alt="Computer" width="600" height="400">
+        <img align = "right" src="Computer.JPG" alt="Computer" width="400" height="600">
       </a>
   </body>
 </html>
