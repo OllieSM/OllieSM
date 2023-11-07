@@ -21,8 +21,10 @@
     <hr>
     <h4><ins>Skill Set</ins></h4>
     <p align="center">I have very basic programming skills in HTML as well as python which i learnt during A-Level <br>
-      I know how to put a PC together since i am trying to build one
+      I know how to put a PC together since i am trying to build one <br>
+      I know how to use editing sofware such as adobe photoshop and adobe illustrator <br>
     </p>
+    <hr>
     <h4><ins>Recent Projects Completed:</ins></h4>
     <p>Not Exactly completed yet but i am currently building a PC to use for school work <br> 
       and games. I have bought more parts more quickly when i moved into UNI and currently <br> 
@@ -33,5 +35,10 @@
       <a target="_blank" href="Computer.JPG">
         <img align = "right" src="Computer.JPG" alt="Computer" width="400" height="600">
       </a>
+    </div>
+    <hr>
+    <h4><ins>Hobby</ins></h4>
+    <p>One of my Hobbies is usually playing games with freinds
+    or a more physical activity walking up mountains</p>
   </body>
 </html>
