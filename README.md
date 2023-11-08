@@ -3,7 +3,7 @@
 
   <body>
     <h1>Readme file</h1>
-    <h4> <font color="green"><ins>About Me:</font></ins></h4>
+    <h4><ins>About Me:</ins></h4>
     <p align="center">My name is <i>Ollie</i> and i study at University of South Wales,<br>
       as well as this i am also trying to learn to try and speak and write better Welsh <br>
       to try and communicate with people in my family more.
@@ -39,6 +39,7 @@
     <hr>
     <h4><ins>Hobby:</ins></h4>
     <p>One of my Hobbies is usually playing games with freinds
-    or a more physical activity walking up mountains</p>
+    or a more physical activity such as walking up mountains <br>
+    i also like to attend programming club every week.</p>
   </body>
 </html>
