@@ -8,6 +8,7 @@
       as well as this i am also trying to learn to try and speak and write better Welsh <br>
       to try and communicate with people in my family more.
     </p>
+  </body>
     <hr>
     <h4><ins>What I am Doing:</ins></h4>
     <p align="center">I am currently studying at USW but more specifically i am studying <i>Computer Science,</i> <br>
@@ -41,5 +42,5 @@
     <p>One of my Hobbies is usually playing games with freinds
     or a more physical activity such as walking up mountains <br>
     i also like to attend programming club every week.</p>
-  </body>
+  
 </html>
