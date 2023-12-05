@@ -5,7 +5,7 @@
 <head>
 <style>
 body {
-background-image: ("greenbackground1.JPG");
+background-image: ("greenbackground1.jpg");
 background-repeat: no-report;
 background-size: cover;
 background-attachment: fixed;
