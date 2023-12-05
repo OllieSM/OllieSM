@@ -59,6 +59,7 @@ I am currently studying at USW but more specifically i am studying <i>Computer S
     <img align = "right" src="Computer.JPG" alt="Computer" width="400" height="600">
   </a>
 </div>
+<p style="background-image: url('');">
 <hr>
 <h4><ins>Hobby:</ins></h4>
 <p>One of my Hobbies is usually playing games with freinds
