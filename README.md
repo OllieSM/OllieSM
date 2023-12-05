@@ -41,8 +41,6 @@ I am currently studying at USW but more specifically i am studying <i>Computer S
 <li>Programming</li>
 
 </ul>
-
-```         
 <hr>
 <h4><ins>Skill Set:</ins></h4>
 <p align="center">I have very basic programming skills in HTML as well as python which i learnt during A-Level <br>
@@ -66,8 +64,6 @@ I am currently studying at USW but more specifically i am studying <i>Computer S
 <p>One of my Hobbies is usually playing games with freinds
 or a more physical activity such as walking up mountains <br>
 i also like to attend programming club every week.</p>
-```
-
 </body>
 
 </html>
