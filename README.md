@@ -2,28 +2,17 @@
 
 <head>OllieSM</head>
 
-<head>
-<style>
-body {
-background-image: ("greenbackground1.jpg");
-background-repeat: no-report;
-background-size: cover;
-background-attachment: fixed;
-}
-</style>
-</head>
+<body style="background-color: #ffe6e6">
 
-<body>
+<h1 style="background-color: #ff66ff">Readme file</h1>
 
-<h1>Readme file</h1>
-
-<h4>
+<h4 style="background-color: #ff66ff">
 
 <ins>About Me:</ins>
 
 </h4>
 
-<p align="center">
+<p style="background-color: #ff66ff" align="center">
 
 My name is <i>Ollie</i> and i study at University of South Wales,<br> as well as this i am also trying to learn to try and speak and write better Welsh <br> to try and communicate with people in my family more.
 
@@ -31,36 +20,36 @@ My name is <i>Ollie</i> and i study at University of South Wales,<br> as well as
 
 <hr>
 
-<h4>
+<h4 style="background-color: #ff66ff">
 
 <ins>What I am Doing:</ins>
 
 </h4>
 
-<p align="center">
+<p style="background-color: #ff66ff" align="center">
 
 I am currently studying at USW but more specifically i am studying <i>Computer Science,</i> <br> i'm currently in my first year making my way through the modules which inlcude:
 
 <ul>
 
-<li>Information Management, Assurance And Security</li>
+<li style="background-color: #ffff66">Information Management, Assurance And Security</li>
 
-<li>Mathematical Tools for Computation</li>
+<li style="background-color: #ffff66">Mathematical Tools for Computation</li>
 
-<li>Professionalism Employabillity Enterprise and Problem-Solving</li>
+<li style="background-color: #ffff66">Professionalism Employabillity Enterprise and Problem-Solving</li>
 
-<li>Programming</li>
+<li style="background-color: #ffff66">Programming</li>
 
 </ul>
 <hr>
-<h4><ins>Skill Set:</ins></h4>
-<p align="center">I have very basic programming skills in HTML as well as python which i learnt during A-Level <br>
+<h4 style="background-color: #ffff66"><ins>Skill Set:</ins></h4>
+<p style="background-color: #ffff66" align="center">I have very basic programming skills in HTML as well as python which i learnt during A-Level <br>
   I know how to put a PC together since i am trying to build one <br>
   I know how to use editing sofware such as adobe photoshop and adobe illustrator <br>
 </p>
 <hr>
-<h4><ins>Recent Projects Completed:</ins></h4>
-<p>Not Exactly completed yet but i am currently building a PC to use for school work <br> 
+<h4 style="background-color: #00ffff"><ins>Recent Projects Completed:</ins></h4>
+<p style="background-color: #00ffff">Not Exactly completed yet but i am currently building a PC to use for school work <br> 
   and games. I have bought more parts more quickly when i moved into UNI and currently <br> 
   i am only missing the GPU. I dont know what i will work on after i have a PC built <br>
   but chances are it will most likely be something with technolgy
@@ -71,8 +60,8 @@ I am currently studying at USW but more specifically i am studying <i>Computer S
   </a>
 </div>
 <hr>
-<h4><ins>Hobby:</ins></h4>
-<p>One of my Hobbies is usually playing games with freinds
+<h4 style="background-color: #00ffff"><ins>Hobby:</ins></h4>
+<p style="background-color: #00ffff">One of my Hobbies is usually playing games with freinds
 or a more physical activity such as walking up mountains <br>
 i also like to attend programming club every week.</p>
 
